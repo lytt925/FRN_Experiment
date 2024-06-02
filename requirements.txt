@@ -7,7 +7,7 @@ cffi==1.15.1
 charset-normalizer==3.2.0
 colorama==0.4.6
 contourpy==1.1.0
-cryptography==41.0.2
+cryptography==42.0.4
 cycler==0.11.0
 Cython==3.0.0
 decorator==4.4.2
