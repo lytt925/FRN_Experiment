@@ -16,7 +16,7 @@ egi-pynetstation==0.0.0rc1
 esprima==4.0.1
 et-xmlfile==1.1.0
 ffpyplayer==4.5.0
-fonttools==4.41.1
+fonttools==4.43.0
 freetype-py==2.4.0
 future==0.18.3
 gevent==23.7.0
